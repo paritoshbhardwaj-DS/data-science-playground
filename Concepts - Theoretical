@@ -1,1 +1,23 @@
+What is big data?
+Certain elements are common like velocity, volume, variety, veracity, and value
+Velocity - speed at which data accumulates. Ex - every 60 sec data is uploaded on yt
+Volume - increase in data stored. Ex - all the gadgets you use create huge datapoints
+Variety - diversity of data Ex- text, picture, health, iot
+Veracity - quality and origin of data and its conformity to facts and accuracy. attributes include consistency, completeness, integrtiy, ambiguity. is the Ex - 80% data is unstructured 
+Value - what value is derived just profit but medical, satisfaction etc.   
 
+What are some common Big data processing tools?
+Apache hadoop - collection of tools that provides distributed storage and processing of big data across clusters of computers (HDFS). Can incorporate new data formats. provides real time data access. 
+                HDFS - storage system for big data. partitions file over mutiple computers allowing parallel processing. 
+Apache hive - data warehouse for data query and analysis built on top of hadoop. Hadoop is intended for long sequential scans hence queries have high latency hence not suitable for faster response. 
+              Better suited for data wh tasks such as ETL, reporting and data analysis. 
+Apache spark - general purpose data processing engine designed to extract and process large volumes of data for a wide range of applications. Like - Interactive analytics, streams processing,ML, data integration and ETL
+              Has in-memory processing which significantly increases speed of computations. processes streaming data fast and performs complex analytics in real time are good used cases. 
+
+How does typical data mining process looks like ?
+1. Goal set - identify key questions concerns aboust cost and benefit
+2. Select data
+3. Preprocess - clean the data, identify relevant attributes of data and identifying errors in data
+4. Transform - determine appropriate format to staroe the data
+5. Data mine - determine methods and analyze
+6. Evaluate - evaluate outcome, test predictive capability, test effectiveness of the model and algorithm on the observed data and share results
