@@ -15,6 +15,8 @@ Apache hive - data warehouse for data query and analysis built on top of hadoop.
 Apache spark - general purpose data processing engine designed to extract and process large volumes of data for a wide range of applications. Like - Interactive analytics, streams processing,ML, data integration and ETL
               Has in-memory processing which significantly increases speed of computations. processes streaming data fast and performs complex analytics in real time are good used cases. 
 
+What is data mining ? Data mining is the process of automatically searching and analyzing data, discovering previously unrevealed patterns. It involves preprocessing the data to prepare it and transforming it into an appropriate format. 
+
 How does typical data mining process looks like ?
 1. Goal set - identify key questions concerns aboust cost and benefit
 2. Select data
@@ -22,3 +24,22 @@ How does typical data mining process looks like ?
 4. Transform - determine appropriate format to staroe the data
 5. Data mine - determine methods and analyze
 6. Evaluate - evaluate outcome, test predictive capability, test effectiveness of the model and algorithm on the observed data and share results
+
+What is ML?
+A subset of AI that uses computer algorithms to analyze data and make intelligent decisions based on what it has learned, w/o being explicitly programmed. 
+- trained with large sets of data
+- they do not follow rules based algorithms 
+- they learn from examples
+ML is what enables machines to solve problems on their own and make predictions on the provided data. 
+
+What is deep learning?
+A specialized subset of ML, that uses layered neural network to simulated human decision making. 
+- DL algorithms can label and categorize information and identify patterns
+- it is what enables AI systems to continously learn on the job and improve q and accuracy of the results by determining whether the results where correct or not
+
+What is Neural Networks ?
+collection of small computing units called neurons. that takes incoming data and learn to make decisions over time.
+
+What is Generative AI?
+a subset of AI that focusses on producing new data rather than analyzing existing data. 
+allows machines to create content like images, music, language, code etc. 
