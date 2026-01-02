@@ -6,4 +6,5 @@ if __name__ == '__main__':
     a = int(input())
     b = int(input())
     print(int(a / b), '\n', abs(a / b))
+# /n pushes the proceeding code to the next line
 
