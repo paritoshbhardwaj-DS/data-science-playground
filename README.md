@@ -1,5 +1,3 @@
-# data-science-learning-plan
-Collection of my data science &amp; machine learning projects
+# data-science-playground
+Collection of my data science journey from 0
 
-What is data science?
-Art of uncovering hidden truth through data. 
