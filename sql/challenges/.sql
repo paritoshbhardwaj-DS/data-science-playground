@@ -1,0 +1,3 @@
+CREATE Table
+SELECT * FROM Table
+
